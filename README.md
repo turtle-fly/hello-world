@@ -7,3 +7,9 @@ This is cinemagraph which, I think, is initialized and popularized by Jamie Beck
 ![armani-coffee](pic/armani-coffee-615.gif)
 
 II. Try to sync repo
+---------------------------------------
+
+III. Git duet experiment
+---------------------------------------
+Awesome! I just start pairing with [git-duet](https://github.com/git-duet/git-duet)
+

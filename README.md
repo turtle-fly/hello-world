@@ -12,4 +12,5 @@ II. Try to sync repo
 III. Git duet experiment
 ---------------------------------------
 Awesome! I just start pairing with [git-duet](https://github.com/git-duet/git-duet)
+This is Golang version and [another (deprecated) one](https://github.com/meatballhat/git-duet) is in Ruby
 
